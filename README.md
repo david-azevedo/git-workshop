@@ -1,1 +1,1 @@
-# git-workshop
+# Welcome to the Git Workshop
